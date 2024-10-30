@@ -3,7 +3,7 @@ Pharagonescia ist ein privater whitelisted Minecraft Server. / Pharagonescia is 
 
 ## Wie komme ich da hin
 Am einfachsten geht das mit [Prism Launcher](https://prismlauncher.org)
-1. Installiere Java 17: [Anleitung](https://prismlauncher.org/wiki/getting-started/installing-java/)
+1. Installiere Java 21: [Anleitung](https://prismlauncher.org/wiki/getting-started/installing-java/)
 1. Installiere Prism Launcher: [Anleitung](https://prismlauncher.org/wiki/getting-started/installing-prismlauncher/)
 1. Lade Prism Launcher Import von hier: [Pharagonescia.zip](https://github.com/flok32/pharagonescia/releases/download/v2.0/Pharagonescia.zip)
 2. Importiere Pharagonescia.zip in Prism Launcher: "Instanz erstellen", "Importieren"
