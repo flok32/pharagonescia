@@ -29,4 +29,4 @@ Niemand braucht mehr Optifine. Optifine ist alt und closed-source und inkompatib
 4. [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
    
 Das ist aber nur ein Grundstock an Mods und viele weitere Feaure warten da draußen darauf entdeckt zu werden.  
-Als Startpunkt für die Suche bietet sich [Modrinth](https://modrinth.com) an.
+Als Startpunkt für die Suche bietet sich [Modrinth](https://modrinth.com) oder eben [Prism Launcher](https://prismlauncher.org) an.
