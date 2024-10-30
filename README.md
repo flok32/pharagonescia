@@ -9,14 +9,15 @@ Am einfachsten geht das mit [Prism Launcher](https://prismlauncher.org)
 2. Importiere Pharagonescia.zip in Prism Launcher: "Instanz erstellen", "Importieren"
 
 ## Was enthält der Import
-- Als erstes und besonders wichtig: **Simple Voice Chat**. Der Server nutzt die [Simple Voice Chat Mod](https://modrinth.com/plugin/simple-voice-chat) als Proximity Voice Chat  
+- [Simple Voice Chat Mod](https://modrinth.com/plugin/simple-voice-chat) - Als erstes und besonders wichtig: **Simple Voice Chat** als Proximity Voice Chat  
   Keybindings: Menu - V, Mute/Unmute - M
 - Xaero's [Minimap](https://modrinth.com/mod/xaeros-minimap) & [World Map](https://modrinth.com/mod/xaeros-world-map)  
   Keybindings: Minimap vergrößern - Z, Worldmap aufrufen - ,
 - [Zoomify](https://modrinth.com/mod/xaeros-world-map)  
   Keybindings: Zoom - C
-- [Freecam](https://modrinth.com/mod/freecam)  
-  Keybindings: F4
+- [Camera Enhancements](https://modrinth.com/mod/camera-enhancements) - Freecam   
+  Keybindings: V
+- [Bobby Mod](https://modrinth.com/mod/bobby) - Mehr Sichtweite durch lokalen Puffer
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)  
   (muss im ResourcePack Menu aktiviert werden)
   
